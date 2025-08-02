@@ -15,4 +15,4 @@ Build a regression model to predict student scores based on hours studied.
 - `requirements.txt`: Python libraries
 
 ## ✅ Completed By:
-Omprakash Sujane
+Omprakash
